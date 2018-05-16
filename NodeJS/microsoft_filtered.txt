@@ -1,0 +1,2743 @@
+[
+  {
+    "detail": {
+      "name": "iTunes",
+      "developer": "Apple Inc."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "WhatsApp Desktop",
+      "developer": "WhatsApp Inc."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Telegram Desktop",
+      "developer": "Telegram Messenger LLP"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Facebook",
+      "developer": "Facebook Inc"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Use your contacts",
+      "Generate code dynamically",
+      "Access your Internet connection",
+      "Use the appointments in your calendar",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Kodi",
+      "developer": "XBMC Foundation"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your music library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Generate code dynamically",
+      "Access to your Account’s username and picture",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Spotify Music",
+      "developer": "Spotify AB"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "VLC",
+      "developer": "VideoLAN"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your music library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "backgroundMediaPlayback",
+      "hevcPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Messenger",
+      "developer": "Facebook Inc"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Generate code dynamically",
+      "Access your Internet connection",
+      "Use your contacts",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Slack",
+      "developer": "Slack Technologies Inc."
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "File Viewer Plus",
+      "developer": "Sharpened Productions"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Audiobooks from Audible",
+      "developer": "Audible Inc"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use data stored on an external storage device",
+      "backgroundMediaPlayback",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "GroupMe",
+      "developer": "Skype"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your contacts"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Feedback Hub",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your enterprise domain credentials",
+      "Use your pictures library",
+      "feedbackLogCollection",
+      "Gather information about other apps",
+      "Use your documents library",
+      "Project the screen on another device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Arduino IDE",
+      "developer": "Arduino LLC"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "LINE",
+      "developer": "LINE Corporation"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your device’s voice over IP (VoIP) services",
+      "Use your pictures library",
+      "Use your music library",
+      "Use your video library",
+      "Use your contacts"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Power Media Player 14 for HP Consumer PCs with DVD",
+      "developer": "CYBERLINKCOM CORP"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "paint.net",
+      "developer": "dotPDN LLC"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Power BI Desktop",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Adobe Photoshop Elements 2018",
+      "developer": "Adobe Systems Incorporated"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Dropbox mobile",
+      "developer": "Dropbox Inc."
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Use your contacts",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your music library",
+      "Use your enterprise domain credentials"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Evernote",
+      "developer": "Evernote"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Microsoft Remote Desktop",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Use your microphone",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Observe and intercept various forms of raw input while the application is in foreground (in focus and active)",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your enterprise domain credentials",
+      "Use the software and hardware certificates available on your device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Fitbit",
+      "developer": "Fitbit"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Communicate with already paired Bluetooth devices",
+      "Detect the current motion of your device",
+      "Bluetooth smart device",
+      "radios",
+      "Use your devices that support the Human Interface Device (HID) protocol",
+      "Access your Internet connection",
+      "Register as an accessory app and opt-in to specific app’s notifications",
+      "Gather information about other apps",
+      "userNotificationListener",
+      "Access your home or work networks",
+      "Use your contacts",
+      "Use your pictures library",
+      "Use your music library",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Instagram",
+      "developer": "Instagram"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Generate code dynamically",
+      "Access your Internet connection",
+      "Use your contacts",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PicsArt Photo Studio: Collage Maker and Pic Editor",
+      "developer": "PicsArt Inc."
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Use the appointments in your calendar"
+    ]
+  },
+  {
+    "detail": {
+      "name": "OneNote",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your documents library",
+      "Use your enterprise domain credentials",
+      "Use the software and hardware certificates available on your device",
+      "Define enterprise-specific policies for your device",
+      "Play audio when the app is not in the foreground",
+      "unzipFile",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "Amazon Music",
+      "developer": "AMZN Mobile LLC"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Video Editor Master",
+      "developer": "Queenloft"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Use your music library",
+      "systemManagement",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "SHARE.it",
+      "developer": "SHAREit Technologies Co.Ltd"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Use devices that support Near Field Communication (NFC) services",
+      "radios",
+      "Scan and connect to WiFi networks",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your contacts",
+      "Use your music library",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Affinity Photo",
+      "developer": "Serif Europe Ltd"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Speedtest by Ookla",
+      "developer": "Ookla"
+    },
+    "permission": [
+      "Use your location",
+      "Scan and connect to WiFi networks",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Access to your Account’s username and picture",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Trello",
+      "developer": "Trello, Inc."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Messenger (Beta)",
+      "developer": "Facebook Inc"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Generate code dynamically",
+      "Access your Internet connection",
+      "Use your contacts",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "3D Builder",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Programmatically access your 3D Objects",
+      "Define enterprise-specific policies for your device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "VMware Horizon Client",
+      "developer": "VMware Inc"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your enterprise domain credentials",
+      "Use the software and hardware certificates available on your device",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "imo desktop free video calls and chat",
+      "developer": "IMO.IM"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "MobileSheets",
+      "developer": "Zubersoft"
+    },
+    "permission": [
+      "Use your microphone",
+      "Communicate with already paired Bluetooth devices",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your music library",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Mixed Reality Viewer",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Programmatically access your 3D Objects",
+      "Use your pictures library",
+      "Use your video library",
+      "previewHfx"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Affinity Designer",
+      "developer": "Serif Europe Ltd"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "AccuWeather - Weather for Life",
+      "developer": "AccuWeather"
+    },
+    "permission": [
+      "Use your location",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Access to your Account’s username and picture",
+      "Use data stored on an external storage device",
+      "Access your home or work networks"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Inkscape",
+      "developer": "Inkscape"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Xbox (beta)",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your contacts",
+      "Use your video library",
+      "Use your pictures library",
+      "shellExperience",
+      "Play audio when the app is not in the foreground",
+      "Control the user settings for the Game DVR",
+      "gameList",
+      "previewStore"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Player for DVD's",
+      "developer": "Yellow Elephant Productions"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Newton Mail",
+      "developer": "CloudMagic, Inc."
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Office Suite - Powerful editor for Adobe pdf and Microsoft doc docx xls xlsx ppt pptx",
+      "developer": "OfficeHelp"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Keeper - Password Manager & Secure File Storage",
+      "developer": "Keeper Security Inc"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your home or work networks",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Use your music library",
+      "Use your video library",
+      "Use your contacts",
+      "Use data stored on an external storage device",
+      "Access all the phone lines on your device",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Blu-ray PRO",
+      "developer": "Yellow Elephant Productions"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "FileBot",
+      "developer": "Point Planck Limited"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Roku",
+      "developer": "Roku"
+    },
+    "permission": [
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use your music library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "RoboForm for Microsoft Edge",
+      "developer": "Siber Systems Inc"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Store personal browsing data on your device.",
+      "Read and change anything you send or receive from websites.",
+      "Read and change your info on sites you visit.",
+      "See the websites you visit.",
+      "Read and change content on websites you visit."
+    ]
+  },
+  {
+    "detail": {
+      "name": "Krita",
+      "developer": "Krita"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Translator",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "FileViewPro 2017",
+      "developer": "Solvusoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Ultra File Opener",
+      "developer": "CompuClever Systems Inc."
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoScape X Pro",
+      "developer": "Mooii Tech"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Snap + Core First",
+      "developer": "Tobii Dynavox"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Kali Linux",
+      "developer": "Kali Linux"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "CloudApp - Screen Recorder, GIF Maker, Screenshots",
+      "developer": "CloudPlus, Inc."
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Bluetooth File Transfer (BlueFTP)",
+      "developer": "Medieval Software"
+    },
+    "permission": [
+      "Communicate with already paired Bluetooth devices",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection and act as a server.",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Use your music library",
+      "Use your contacts",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoScape X",
+      "developer": "Mooii Tech"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "CyberLink Power Media Player",
+      "developer": "CyberLink Corp."
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "有道词典桌面版",
+      "developer": "NetEase Youdao Information Technology"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Screenbits",
+      "developer": "Mehrzad Chehraz"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Tweetium",
+      "developer": "B-side Software"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "VEGAS Pro 15 Windows Store Edition",
+      "developer": "VEGAS Creative Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "(unofficial) NotePad++",
+      "developer": "NightRise"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Stagelight",
+      "developer": "Open Labs LLC"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "Snap + Core First Full",
+      "developer": "Tobii Dynavox"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your webcam",
+      "Use your microphone",
+      "gazeInput",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Movie Maker for YouTube and Instagram",
+      "developer": "Picture Perfect Apps"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your music library",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Facebook (Beta)",
+      "developer": "Facebook Inc"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Use your contacts",
+      "Generate code dynamically",
+      "Access your Internet connection",
+      "Use the appointments in your calendar",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "SmartScore Music-to-XML Music Notation Recognition",
+      "developer": "Musitek Corporation"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "VEGAS Movie Studio 15 Platinum Windows Store Edition",
+      "developer": "VEGAS Creative Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Torrex Lite - Torrent Downloader",
+      "developer": "Finebits OÜ"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Access your Internet connection",
+      "backgroundMediaPlayback",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "DX1 for Windows 10",
+      "developer": "Dominion DX1"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use barcode scanners and magnetic card readers",
+      "Access your Internet connection",
+      "Access your home or work networks"
+    ]
+  },
+  {
+    "detail": {
+      "name": "i-Boating: GPS Nautical / Marine Charts - offline sea, lake river navigation maps for fishing, sailing, boating, yachting, diving & cruising",
+      "developer": "Bist LLC"
+    },
+    "permission": [
+      "Use your location",
+      "Communicate with already paired Bluetooth devices",
+      "serialcommunication",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Bluetooth device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PowerDirector 16",
+      "developer": "CyberLink Corp."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Cyberduck",
+      "developer": "iterate"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "爱奇艺万能播放器",
+      "developer": "北京爱奇艺科技有限公司"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Graphing Calculator 3D Plus",
+      "developer": "Runiter"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Dell Product Registration",
+      "developer": "Dell Inc"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "MobiDB Database",
+      "developer": "IP Korney Vitaliy Igorevich"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Dell Mobile Connect",
+      "developer": "Screenovate Technologies"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "MixPad",
+      "developer": "NCH Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Express Burn",
+      "developer": "NCH Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Send to OneNote",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Free Mp3 Video Downloader",
+      "developer": "Mp3 Music Tube"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your video library",
+      "Use your music library",
+      "Use your pictures library",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "MuseScore 2",
+      "developer": "MuseScore BVBA"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Adult Coloring Book With Multiple Templates & Colors",
+      "developer": "Videopix"
+    },
+    "permission": [
+      "Use your location",
+      "Use your microphone",
+      "Access your Internet connection and act as a server.",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "HexChat",
+      "developer": "TingPing"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "InPixio Photo Eraser",
+      "developer": "Avanquest  Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Photo Blender : Photo Editor",
+      "developer": "Fruit Candy"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Use your music library",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "Athena DICOM Viewer",
+      "developer": "Medical Harbour"
+    },
+    "permission": [
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use data stored on an external storage device",
+      "Access to your Account’s username and picture",
+      "Programmatically access your 3D Objects"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Amazing Slow Downer",
+      "developer": "Roni Music AB"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "WavePad",
+      "developer": "NCH Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PowerDirector Mobile",
+      "developer": "CyberLink Corp."
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "EarTrumpet",
+      "developer": "File-New-Project"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Windows Configuration Designer",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Expresii",
+      "developer": "Nelson Chu"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Fast Weigh Ticketing",
+      "developer": "TAC Insight LLC"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Communicate with already paired Bluetooth devices",
+      "Use devices that support Near Field Communication (NFC) services",
+      "serialcommunication",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Generate code dynamically",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Access to your Account’s username and picture",
+      "Programmatically access your 3D Objects"
+    ]
+  },
+  {
+    "detail": {
+      "name": "VideoPad",
+      "developer": "NCH Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Tweeten",
+      "developer": "Tweeten"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Coloring Books",
+      "developer": "PHOTOCODERS"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Use your music library",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Move Mouse",
+      "developer": "ellabi"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Widgets HD",
+      "developer": "Ambient Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your location",
+      "Access your Internet connection",
+      "Use your pictures library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "SmartScore Music-to-XML Music Notation Recognition",
+      "developer": "Musitek Corporation"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Movie Edit Pro Windows Store Edition",
+      "developer": "MAGIX Software GmbH"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Afanche 3D Parasolid Viewer Pro for PC (Full Version)",
+      "developer": "Afanche Technologies Inc."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoPad",
+      "developer": "NCH Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoScissors",
+      "developer": "Maxim Gapchenko"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PayPal Here",
+      "developer": "PayPal Inc."
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Bluetooth device",
+      "Access your Internet connection and act as a server.",
+      "Use your contacts",
+      "Use your pictures library",
+      "Use barcode scanners and magnetic card readers",
+      "Access your Internet connection",
+      "Access your home or work networks"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Life Journal - Private, Secure Diary",
+      "developer": "Beautiful Life Apps"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Enpass",
+      "developer": "Sinew Software Systems Private Limited"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Read and delete Text Messages",
+      "Use data stored on an external storage device",
+      "Use the software and hardware certificates available on your device",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Windows Mixed Reality PC Check",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Alienware Mobile Connect",
+      "developer": "Screenovate Technologies"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "InPixio Photo Editor",
+      "developer": "Avanquest  Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Movie Edit Touch",
+      "developer": "MAGIX Software GmbH"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Torrex Pro - Torrent Downloader",
+      "developer": "Finebits OÜ"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Access your Internet connection",
+      "backgroundMediaPlayback",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "f.lux",
+      "developer": "F.lux Software LLC"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "ShareX",
+      "developer": "ShareX Team"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Adult Coloring Book With Multiple Templates & Colors",
+      "developer": "Videopix"
+    },
+    "permission": [
+      "Use your location",
+      "Use your microphone",
+      "Access your Internet connection and act as a server.",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Screenbits",
+      "developer": "Mehrzad Chehraz"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Ditto Clipboard",
+      "developer": "Scott Brogden"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Garmin Connect Mobile",
+      "developer": "GARMIN INTERNATIONAL INC"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Communicate with already paired Bluetooth devices",
+      "Scan and connect to WiFi networks",
+      "radios",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your contacts",
+      "Use the appointments in your calendar",
+      "Use your pictures library",
+      "Access to your Account’s username and picture",
+      "userNotificationListener",
+      "Register as an accessory app and opt-in to specific app’s notifications",
+      "Make use of SMS and RCS"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Move Mouse",
+      "developer": "ellabi"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Diarium — Private Diary / Daily Journal",
+      "developer": "T. Partl"
+    },
+    "permission": [
+      "Use your location",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use the appointments in your calendar",
+      "Use your pictures library",
+      "Use your contacts",
+      "Read and delete Text Messages",
+      "Detect the current motion of your device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Enpass Password Manager",
+      "developer": "Sinew Software Systems Private Limited"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoDirector 9",
+      "developer": "CyberLink Corp."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoGrid Photo & Pic Collage-Photo Collage Maker & Picture Editor:Instant Collage Maker",
+      "developer": "Kinderjoy"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Use your music library",
+      "Use your video library",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "myTube!",
+      "developer": "Ryken Studio"
+    },
+    "permission": [
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your video library",
+      "backgroundMediaPlayback",
+      "remoteSystem",
+      "Use your music library",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Huetro for Hue",
+      "developer": "NielsLaute"
+    },
+    "permission": [
+      "Use your location",
+      "Use your microphone",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Communicate with already paired Bluetooth devices",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Access all the phone lines on your device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Redstick Pro",
+      "developer": "Redstick"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Communicate with already paired Bluetooth devices",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Duplex Media Player",
+      "developer": "Atef Shehata"
+    },
+    "permission": [
+      "Use your location",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your music library",
+      "Use your video library",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Gravit Designer",
+      "developer": "Gravit GmbH"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Deezer Music",
+      "developer": "Deezer SA"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Windows Phone identification data",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Musixmatch Lyrics - Sing along Spotify, iTunes, Windows Media Player",
+      "developer": "Musixmatch"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Just Checking",
+      "developer": "WWW.JUSTAPPS.COM"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Journey",
+      "developer": "Two App Studio"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Movie Edit Pro Plus Windows Store Edition",
+      "developer": "MAGIX Software GmbH"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PowerApps",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Communicate with already paired Bluetooth devices",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection",
+      "Generate code dynamically",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use the appointments in your calendar",
+      "Use your contacts",
+      "Use your enterprise domain credentials",
+      "Use your music library",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Use the software and hardware certificates available on your device",
+      "Access to your Account’s username and picture",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "IrfanView64",
+      "developer": "Irfan Skiljan (IrfanView)"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Quicken WillMaker Plus 2018",
+      "developer": "Individual Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Zoom Player 14",
+      "developer": "Inmatrix"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoStage",
+      "developer": "NCH Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "AirServer Windows 10 Desktop Edition",
+      "developer": "App Dynamic ehf."
+    },
+    "permission": [
+      "Use devices that support Near Field Communication (NFC) services",
+      "Scan and connect to WiFi networks",
+      "radios",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Generate code dynamically",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Insta Photo Collage",
+      "developer": "Photo VideoSoft"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your video library",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "Samsung Settings",
+      "developer": "Samsung Electronics Co. Ltd."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "MeisterTask",
+      "developer": "MeisterLabs GmbH"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Garden Planner 3",
+      "developer": "Artifact Interactive"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "FotoJet Designer",
+      "developer": "PearlMountain Limited"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Afanche 3D STEP Viewer Pro for PC (Full Version)",
+      "developer": "Afanche Technologies Inc."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PegasusMobile",
+      "developer": "ADD_Systems"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Communicate with already paired Bluetooth devices",
+      "radios",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Bluetooth device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Free Virtual Keyboard",
+      "developer": "Comfort Software Group"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Fudget: budget planner & personal finance tracker",
+      "developer": "Danny Connell"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "QR-Code Generator Pro",
+      "developer": "Srujan Jha"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Access your Internet connection",
+      "Use your music library",
+      "Use your pictures library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your contacts",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "KeyPenX",
+      "developer": "KeyWebX"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "InPixio Photo Editor Premium",
+      "developer": "Avanquest  Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "One Commander",
+      "developer": "milosp"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Simplenote",
+      "developer": "Automattic"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "foobar2000",
+      "developer": "Resolute"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Transitions DJ",
+      "developer": "Apollo Vibes LLC"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "iThoughts",
+      "developer": "toketaWare ltd"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Music Maker Plus Windows Store Edition",
+      "developer": "MAGIX Software GmbH"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Nimble Screenshots",
+      "developer": "Nimble Apps"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Use your pictures library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "QMedical",
+      "developer": "Medeia Inc"
+    },
+    "permission": [
+      "Use your location",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Communicate with already paired Bluetooth devices",
+      "Access your USB connected devices",
+      "serialcommunication",
+      "Bluetooth device",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use data stored on an external storage device",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Movie Maker for Photos: Free Video Editor & Slideshow Maker, Image to Video Movie Maker",
+      "developer": "Kingloft"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your music library",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Zalo Desktop",
+      "developer": "VNG Online"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Microsoft Dynamics 365",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use the software and hardware certificates available on your device",
+      "Use your enterprise domain credentials"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Music Tube for youtube",
+      "developer": "free_mp3_music"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your video library",
+      "Use your music library",
+      "Use your pictures library",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "LCARS Interface",
+      "developer": "Davstar Apps"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your video library",
+      "Use your music library",
+      "Use data stored on an external storage device",
+      "Use your pictures library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Ip Cam Soft UWP",
+      "developer": "IP Cam Soft"
+    },
+    "permission": [
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Generate code dynamically",
+      "Discover and interact with AllJoyn enabled apps and devices",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library",
+      "Use data stored on an external storage device",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Screentik - Screenshot Capture Tool",
+      "developer": "Mehrzad Chehraz"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "DeskCalc Pro",
+      "developer": "pmaSoft"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoFunia",
+      "developer": "Capsule Digital"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection and act as a server.",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Access your Internet connection",
+      "Access your home or work networks"
+    ]
+  },
+  {
+    "detail": {
+      "name": "FreshDiagram",
+      "developer": "10SouthStudios"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Typing Magic",
+      "developer": "Typing Master Finland Oy"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PDF to Word Converter Full Version - FirePDF",
+      "developer": "FirePDF"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Express Scribe Pro",
+      "developer": "NCH Software"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Tubemate HD Video Pro",
+      "developer": "wosinekp"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your video library",
+      "Use your music library",
+      "Use your pictures library",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Dell Customer Connect",
+      "developer": "Dell Inc"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "SlideMaker Slideshow Video Editor",
+      "developer": "Kingloft"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Check Print'R+",
+      "developer": "Match-Software"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Playcast",
+      "developer": "Webrox"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your music library",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Use your video library",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Moneyspire 2018",
+      "developer": "Moneyspire"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Scorpio Player",
+      "developer": "bosxixi"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "backgroundMediaPlayback",
+      "Use your video library",
+      "Use your pictures library",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "DriveHQ FileManager Lite",
+      "developer": "Drive Headquarters Inc"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Files&Folders Pro",
+      "developer": "Finebits OÜ"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Use your music library",
+      "backgroundMediaPlayback",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "Lenovo Nerve Center",
+      "developer": "LENOVO INC"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PowerDirector Mobile Video Editor – Bundled",
+      "developer": "CyberLink Corp."
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use your video library",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "ProntoForms for Windows 10",
+      "developer": "ProntoForms"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "TouchMD Consult",
+      "developer": "TouchMD"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Ultra eBook Reader",
+      "developer": "CompuClever Systems Inc."
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Orbose Retail",
+      "developer": "Enigma Systems, LLC"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Communicate with already paired Bluetooth devices",
+      "Use barcode scanners and magnetic card readers",
+      "Scan and connect to WiFi networks",
+      "serialcommunication",
+      "Access your USB connected devices",
+      "Access your Internet connection",
+      "Discover and interact with AllJoyn enabled apps and devices",
+      "Access your Internet connection and act as a server.",
+      "Generate code dynamically",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use your music library",
+      "Use data stored on an external storage device",
+      "Access to your Account’s username and picture",
+      "Use your video library",
+      "Use your device’s voice over IP (VoIP) services",
+      "Programmatically access your 3D Objects",
+      "userNotificationListener"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Duplex Media Player +",
+      "developer": "Atef Shehata"
+    },
+    "permission": [
+      "Use your location",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Access your Internet connection and act as a server.",
+      "Use your music library",
+      "Use your video library",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Organize My Files",
+      "developer": "Qiplex"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "WELLBEATS",
+      "developer": "Wellbeats"
+    },
+    "permission": [
+      "Communicate with already paired Bluetooth devices",
+      "Scan and connect to WiFi networks",
+      "serialcommunication",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use data stored on an external storage device",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "File Magic",
+      "developer": "Solvusoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "RAR to ZIP Converter & Opener",
+      "developer": "Fruit Candy"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Use your music library",
+      "Use your contacts",
+      "Use your video library",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "crazy video maker 2",
+      "developer": "Multimedia Cafe"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your music library",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Use your video library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "ModernGlance",
+      "developer": "Pasqui industry"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Time Master + Billing",
+      "developer": "On-Core Software LLC"
+    },
+    "permission": [
+      "Use your webcam",
+      "Use devices that support Near Field Communication (NFC) services",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "Use your pictures library",
+      "Use data stored on an external storage device",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Resco Mobile CRM",
+      "developer": "Resco"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your home or work networks",
+      "Access your Internet connection",
+      "Use your pictures library",
+      "Use your enterprise domain credentials",
+      "Use the software and hardware certificates available on your device",
+      "Access to your Account’s username and picture"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Backup Dwarf",
+      "developer": "KRKsoft"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Wotja X 2018: Generative Suite",
+      "developer": "Intermorphic"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "backgroundMediaPlayback"
+    ]
+  },
+  {
+    "detail": {
+      "name": "ALLPlayer",
+      "developer": "ALLPlayer Group Ltd."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "My Excel Editor And Reader",
+      "developer": "OfficeHelp"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your location",
+      "Use data stored on an external storage device"
+    ]
+  },
+  {
+    "detail": {
+      "name": "PhotoStitcher",
+      "developer": "Maxim Gapchenko"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Monument Browser",
+      "developer": "Marcelo de Souza"
+    },
+    "permission": [
+      "Use your location",
+      "Use your webcam",
+      "Use your microphone",
+      "Access your Internet connection",
+      "Use your music library",
+      "Use your pictures library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "backgroundMediaPlayback",
+      "remoteSystem"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Tubecast VR",
+      "developer": "Webrox"
+    },
+    "permission": [
+      "Use your microphone",
+      "Access your Internet connection",
+      "Generate code dynamically",
+      "Use your pictures library",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your music library"
+    ]
+  },
+  {
+    "detail": {
+      "name": "ALLConverter PRO",
+      "developer": "ALLPlayer Group Ltd."
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Video To Mp3 Converter,Video Trimmer",
+      "developer": "Fruit Candy"
+    },
+    "permission": [
+      "Use your webcam",
+      "Access your Internet connection",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your pictures library",
+      "Use your music library",
+      "backgroundMediaPlayback",
+      "Access your Internet connection and act as a server."
+    ]
+  },
+  {
+    "detail": {
+      "name": "My Office",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks",
+      "previewStore",
+      "Gather information about other apps"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Debian GNU/Linux",
+      "developer": "The Debian Project"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "App Installer",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Manage other apps directly",
+      "Gather information about other apps",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use your documents library",
+      "storeAppInstall",
+      "appLicensing",
+      "broadFileSystemAccess"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Sense Desktop",
+      "developer": "StedySoft"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Use your location",
+      "Access your Internet connection"
+    ]
+  },
+  {
+    "detail": {
+      "name": "WinDbg Preview",
+      "developer": "Microsoft Corporation"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "FLV Player",
+      "developer": "Ice Cube Soft"
+    },
+    "permission": [
+      "Access your Internet connection",
+      "Use your video library",
+      "Use data stored on an external storage device",
+      "Use your music library",
+      "Use your pictures library",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Acellus",
+      "developer": "GoldKey Corporation"
+    },
+    "permission": [
+      "Uses all system resources"
+    ]
+  },
+  {
+    "detail": {
+      "name": "Token2Shell",
+      "developer": "Choung Networks"
+    },
+    "permission": [
+      "Uses all system resources",
+      "Communicate with already paired Bluetooth devices",
+      "Bluetooth device",
+      "serialcommunication",
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Use data stored on an external storage device"
+    ]
+  }
+]

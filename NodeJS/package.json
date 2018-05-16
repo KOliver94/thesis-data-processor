@@ -1,0 +1,23 @@
+{
+  "name": "thesis-data-processor",
+  "version": "1.0.0",
+  "description": "Data processor from MongoDB for my thesis work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOliver94/thesis-data-processor.git"
+  },
+  "author": "Olivér Kecskeméty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOliver94/thesis-data-processor/issues"
+  },
+  "homepage": "https://github.com/KOliver94/thesis-data-processor#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "mongodb": "^3.0.8"
+  }
+}
