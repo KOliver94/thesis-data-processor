@@ -22,8 +22,6 @@ public class redundancyRemover {
         int count = 0;
 
         for (int i = 0; i < apps.size(); i++) {
-            Document details = (Document) apps.get(i).get("details");
-
             for (int j = filtered.size()-1; j > i; j--){
                 if (((Document) apps.get(i).get("details")).getString("appId")
                         .contentEquals(((Document) filtered.get(j).get("details")).getString("appId"))){
